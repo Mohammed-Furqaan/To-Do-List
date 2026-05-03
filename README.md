@@ -55,7 +55,6 @@ Feel free to fork this repository and submit a pull request.
 If you like this project, give it a ⭐ on GitHub!
 
 👨‍💻 Author
-
 Mohammed Furqaan
 
 GitHub: https://github.com/Mohammed-Furqaan
